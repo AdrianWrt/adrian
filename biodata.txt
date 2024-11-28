@@ -1,0 +1,5 @@
+biodata
+
+nama : adrian wartono
+kelas : 4ia25
+npm : 50421056
